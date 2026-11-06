@@ -14,10 +14,3 @@ The design report gives about 2.17 V output for zero input and 8.91 V for a 1.41
 The original project used a nominal 36-degree-Celsius setpoint. The reports demonstrate the amplifier and switching behavior, but do not establish calibrated absolute-temperature accuracy or cold-junction compensation. I would treat this as a course prototype rather than a calibrated temperature controller.
 
 The original reports include the circuit and PCB drawings. Standalone CAD revisions and manufacturing exports are omitted because I could not verify which saved PCB file corresponds to the assembled board. The saved LTspice circuit also uses different reference-divider values from the DipTrace schematic shown in the final report.
-
-## Download reports
-
-If GitHub's PDF preview is blank or reports an error, use these direct file links:
-
-- [Download design report PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/project-thermocouple-heater/design-report.pdf)
-- [Download final report PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/project-thermocouple-heater/final-report.pdf)
