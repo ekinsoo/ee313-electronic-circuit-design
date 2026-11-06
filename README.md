@@ -15,6 +15,19 @@ The [thermocouple-controlled heater](project-thermocouple-heater/) uses an LM324
 | [lab-03-power-amplifier](labs/lab-03-power-amplifier/) | Single-supply push-pull power amplifier. |
 | [lab-04-wideband-amplifier](labs/lab-04-wideband-amplifier/) | Two-stage transistor amplifier with feedback. |
 
+## Reports
+
+If GitHub's PDF preview is blank or reports an error, use **Download PDF** to access the file directly.
+
+| Report | GitHub preview | Direct file |
+| --- | --- | --- |
+| Lab 1: Temperature sensor | [Preview](labs/lab-01-temperature-sensor/final-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/labs/lab-01-temperature-sensor/final-report.pdf) |
+| Lab 2: Voltage regulator | [Preview](labs/lab-02-voltage-regulator/final-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/labs/lab-02-voltage-regulator/final-report.pdf) |
+| Lab 3: Power amplifier | [Preview](labs/lab-03-power-amplifier/final-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/labs/lab-03-power-amplifier/final-report.pdf) |
+| Lab 4: Wideband amplifier | [Preview](labs/lab-04-wideband-amplifier/final-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/labs/lab-04-wideband-amplifier/final-report.pdf) |
+| Project: Design report | [Preview](project-thermocouple-heater/design-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/project-thermocouple-heater/design-report.pdf) |
+| Project: Final report | [Preview](project-thermocouple-heater/final-report.pdf) | [Download PDF](https://raw.githubusercontent.com/ekinsoo/ee313-electronic-circuit-design/main/project-thermocouple-heater/final-report.pdf) |
+
 ## About the files
 
 The PDFs contain the circuit drawings, calculations, simulation plots, and hardware measurements. The project also includes a separate design report with the offset measurements and simulation work.
